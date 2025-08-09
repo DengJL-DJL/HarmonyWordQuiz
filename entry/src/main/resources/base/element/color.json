@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "primary_color",
+      "value": "#FF6B35"
+    },
+    {
+      "name": "card_bg",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "correct_answer",
+      "value": "#E8F5E9"
+    },
+    {
+      "name": "wrong_answer",
+      "value": "#FFEBEE"
+    }
+  ]
+}

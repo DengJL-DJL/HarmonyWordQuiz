@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "word": "apple",
+    "translation": "苹果",
+    "options": ["苹果", "香蕉", "橙子"],
+    "correctIndex": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "word": "book",
+    "translation": "书",
+    "options": ["书", "笔", "桌子"],
+    "correctIndex": 0,
+    "difficulty": 1
+  }
+]
